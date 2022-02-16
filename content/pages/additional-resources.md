@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Bibliography
 uid: 69aad9e7-fb4b-a2bf-d1ba-e62d4e389183
 ---

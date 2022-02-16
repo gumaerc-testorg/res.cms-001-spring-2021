@@ -12,7 +12,7 @@ leftnav:
   name: Bibliography
   url: /pages/additional-resources
   weight: 30
-- identifier: external-a2ae9b3c2eeb42dab72a91a7c97265e8
+- identifier: external-269973b3c1ed4afeb78560edebb410fc
   name: Learning Module and Course Materials
   url: https://deepfakes.virtuality.mit.edu/
   weight: 1000

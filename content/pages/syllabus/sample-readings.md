@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Sample Syllabus
+parent_type: SupplementalResourceSection
 parent_uid: c7e93a18-e1d5-9f56-75b3-073340e84472
 title: Sample Readings
 uid: 745af33f-fb92-87ea-6ec9-91738469d9e0

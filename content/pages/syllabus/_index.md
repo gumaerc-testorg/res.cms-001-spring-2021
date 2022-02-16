@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Sample Syllabus
 uid: c7e93a18-e1d5-9f56-75b3-073340e84472
 ---
