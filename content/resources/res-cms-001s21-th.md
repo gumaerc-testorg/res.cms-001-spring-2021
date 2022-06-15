@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/0137e087a13df0587030e929a834fe8d_res-cms-001s21-th.png
+file: /courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/0137e087a13df0587030e929a834fe8d_res-cms-001s21-th.png
 file_type: image/png
 image_metadata:
   caption: "Misinformation constitutes an urgent threat to democratic societies around\

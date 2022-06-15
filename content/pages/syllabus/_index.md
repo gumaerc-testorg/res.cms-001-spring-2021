@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Syllabus, including grading criteria, for Media Literacy in the Age
+  of Misinformation. '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Sample Syllabus
@@ -31,7 +33,7 @@ By the conclusion of the module, students will be able to:
 Readings
 --------
 
-See the [Bibliography]({{< baseurl >}}/pages/additional-resources) as well as an example [Reading List]({{< baseurl >}}/pages/syllabus/sample-readings) for the course.  
+See the {{% resource_link 69aad9e7-fb4b-a2bf-d1ba-e62d4e389183 "Bibliography" %}} as well as an example {{% resource_link 745af33f-fb92-87ea-6ec9-91738469d9e0 "Reading List" %}} for the course.  
 
 Grading
 -------
