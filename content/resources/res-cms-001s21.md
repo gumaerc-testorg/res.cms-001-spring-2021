@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: Silhouette of a person with transparent overlays of generic profile pages.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-001s21.png
