@@ -170,12 +170,12 @@ Patricia Zimmermann, *Documentary Across Platforms: Reverse Engineering Media, P
 ## Media Literacy & Policy Advocasy
 
 - Data & Society, “[Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)”
-- Alliance for Democracies, “[Campaign for Democracies](https://www.allianceofdemocracies.org/initiatives/the-campaign/)”
+- Alliance for Democracies, “[Campaign for Democracies](https://web.archive.org/web/20220619215617/https://www.allianceofdemocracies.org/initiatives/the-campaign/)”
 - Witness Media Lab, “[Prepare, Don’t Panic: Synthetic Media and Deepfakes](https://lab.witness.org/projects/synthetic-media-and-deep-fakes/)”
 - Annenberg Innovation Lab, “[Truthiness Collaborative](https://www.annenberglab.com/projects/truthiness-collaborative/)”
 - Berkman Klein Center for Internet & Democracy, “[Algorithms and Justice](https://cyber.harvard.edu/projects/ai-algorithms-and-justice)”
 - Electronic Frontier Foundation, “[Creativity and Innovation](https://www.eff.org/issues/innovation)”
-- Deeptrust Alliance, “[FixFake](https://www.deeptrustalliance.org/fixfake)”
+- Deeptrust Alliance, “FixFake”
 - National Association for Media Literacy Education, “[Resources and Guides](https://namle.net/resources/)”
 - World Health Organization, “[Infodemic Report](https://www.who.int/health-topics/infodemic#tab=tab_1)”
 
@@ -195,7 +195,7 @@ Patricia Zimmermann, *Documentary Across Platforms: Reverse Engineering Media, P
 
 [Colonial Film Database](http://www.colonialfilm.org.uk/): 350+ films related to the British Empire.
 
-[Eye Filmmuseum, Netherlands](https://international.eyefilm.nl/): Dutch fiction, nonfiction, experimental.
+[Eye Filmmuseum, Netherlands](https://www.eyefilm.nl/en): Dutch fiction, nonfiction, experimental.
 
 [Home Movie Archives Database](https://homemoviearchives.org/): home movies across American archives.
 
@@ -221,7 +221,7 @@ Patricia Zimmermann, *Documentary Across Platforms: Reverse Engineering Media, P
 
 [UbuWeb Film and Video](https://www.ubu.com/film/): experimental and art film, organized by artist.
 
-[UNESCO Digital Archives](https://digital.archives.unesco.org/en/): digital content related to the films, photos, publications of   
+[UNESCO Digital Archives](https://digital.archives.unesco.org/en/): digital content related to the films, photos, publications of     
 UNESCO.
 
 [Women Behind the Camera](http://womanbehindthecamera.org/home/): 20th century women filmmakers, Northeast Archives.
