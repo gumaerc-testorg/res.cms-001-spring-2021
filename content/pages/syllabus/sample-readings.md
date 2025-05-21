@@ -78,7 +78,7 @@ Nina Schick, “R/Deepfakes,” “Deepfakes in the Wild,” in *Deepfakes: The 
 
 ### Week 8: Media Literacies
 
-Alexandra Juhasz, “[#100hardtruths-#fakenews](https://scalar.usc.edu/nehvectors/100hardtruths-fakenews/index)”
+Alexandra Juhasz, “[#100hardtruths-#fakenews](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1189&context=bc_pubs)”
 
 Alexandra Juhasz, “Fake News Poetry Workshops,” “Radical Digital Media Literacy in a Post-Truth Anti-Trump Era,” *Radical Teacher* 111, 23-29.
 
