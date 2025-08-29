@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/ddd3661035a740d400d1717ca1e4114e_res-cms-001s21.png
+file: /ol-ocw-studio-app/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/ddd3661035a740d400d1717ca1e4114e_res-cms-001s21.png
 file_size: 29090
 file_type: image/png
 image_metadata:
