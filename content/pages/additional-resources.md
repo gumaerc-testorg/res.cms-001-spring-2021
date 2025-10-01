@@ -8,7 +8,7 @@ ocw_type: SupplementalResourceSection
 title: Bibliography
 uid: 69aad9e7-fb4b-a2bf-d1ba-e62d4e389183
 ---
-This page contains a resource guide for topics discussed in the module. For the full list of resources, please see the [module site](https://deepfakes.virtuality.mit.edu/). 
+This page contains a resource guide for topics discussed in the module. For the full list of resources, please see the {{% resource_link "abe944df-ec1b-4cef-86d8-23045403c49c" "module site" %}}. 
 
 ## Shallowfakes, Deepfakes, and Disinformation
 
@@ -152,115 +152,115 @@ Patricia Zimmermann, *Documentary Across Platforms: Reverse Engineering Media, P
 
 ## Organizations for Provenance, Detection, and Fact Checking
 
-- [AP Fact Check](https://apnews.com/hub/ap-fact-check)
-- [BBC Reality Check](https://www.bbc.com/news/reality_check)
-- [Fullfact](https://fullfact.org/)
-- [Politifact, The Poynter Institute](https://www.politifact.com/)
-- [First Draft](https://firstdraftnews.org/projects/)
-- [Snopes, Fact Check](https://www.snopes.com/fact-check/)
-- [Content Authenticity Initiative](https://contentauthenticity.org/)
-- [Poynter](https://www.poynter.org/media-news/fact-checking/)
-- [Amped](https://ampedsoftware.com/)
-- [Bellingcat](https://www.bellingcat.com/)
-- [Citizen Lab, University of Toronto](https://citizenlab.ca/)
-- [Sensity](https://sensity.ai/)
-- [Jigsaw](https://jigsaw.google.com/)
-- [Newsguard](https://www.newsguardtech.com/)
+- {{% resource_link "eeeff070-6442-4c72-99b3-60b0aea9bd66" "AP Fact Check" %}}
+- {{% resource_link "53a8f710-5fc2-43be-b0b7-b0424ede519a" "BBC Reality Check" %}}
+- {{% resource_link "98f1c694-13c3-4116-9d47-73d7c9580f59" "Fullfact" %}}
+- {{% resource_link "c4adee2f-cc23-4a2f-8da9-067e79e164e1" "Politifact, The Poynter Institute" %}}
+- {{% resource_link "730bccee-5911-4845-9d85-06ed6d26deec" "First Draft" %}}
+- {{% resource_link "d2571c74-4b45-4cb6-9917-21843e7629f7" "Snopes, Fact Check" %}}
+- {{% resource_link "3b49b2c6-80fc-4899-a549-7271b34d1749" "Content Authenticity Initiative" %}}
+- {{% resource_link "8c507e4b-450e-495c-bffb-5500ea9a5781" "Poynter" %}}
+- {{% resource_link "9cb5b87a-cd4f-4f6c-8be0-8570e4f5415d" "Amped" %}}
+- {{% resource_link "65036b61-9f2c-49c6-b796-f49c24db6793" "Bellingcat" %}}
+- {{% resource_link "c00e5bfc-5530-41bc-b9ab-f3f5b42a2a85" "Citizen Lab, University of Toronto" %}}
+- {{% resource_link "9e250d2d-7e68-42b0-b430-5dbddfe18376" "Sensity" %}}
+- {{% resource_link "056b6b1d-0552-4862-bdb3-0844ac9705b4" "Jigsaw" %}}
+- {{% resource_link "c7431e0d-5eb6-46f0-ad20-3748e45146fd" "Newsguard" %}}
 
 ## Media Literacy & Policy Advocasy
 
-- Data & Society, “[Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)”
-- Alliance for Democracies, “[Campaign for Democracies](https://web.archive.org/web/20220619215617/https://www.allianceofdemocracies.org/initiatives/the-campaign/)”
-- Witness Media Lab, “[Prepare, Don’t Panic: Synthetic Media and Deepfakes](https://lab.witness.org/projects/synthetic-media-and-deep-fakes/)”
-- Annenberg Innovation Lab, “[Truthiness Collaborative](https://www.annenberglab.com/projects/truthiness-collaborative/)”
-- Berkman Klein Center for Internet & Democracy, “[Algorithms and Justice](https://cyber.harvard.edu/projects/ai-algorithms-and-justice)”
-- Electronic Frontier Foundation, “[Creativity and Innovation](https://www.eff.org/issues/innovation)”
+- Data & Society, “{{% resource_link "9ac98c0a-b6b2-476b-87dd-f7c0f7bc6a4e" "Media Manipulation and Disinformation" %}}”
+- Alliance for Democracies, “{{% resource_link "03630a83-6ac5-41fd-bfd0-9b8c558f8aed" "Campaign for Democracies" %}}”
+- Witness Media Lab, “{{% resource_link "25be0484-0acd-405f-9369-f40e5df270dd" "Prepare, Don’t Panic: Synthetic Media and Deepfakes" %}}”
+- Annenberg Innovation Lab, “{{% resource_link "8c9f2aa0-9f71-4961-9996-e1b6133b4b71" "Truthiness Collaborative" %}}”
+- Berkman Klein Center for Internet & Democracy, “{{% resource_link "568da55a-30d5-4caa-b9ae-846ff5e4be74" "Algorithms and Justice" %}}”
+- Electronic Frontier Foundation, “{{% resource_link "ceb77e40-9dc0-4a68-a4b7-bcdb0f524340" "Creativity and Innovation" %}}”
 - Deeptrust Alliance, “FixFake”
-- National Association for Media Literacy Education, “[Resources and Guides](https://namle.net/resources/)”
-- World Health Organization, “[Infodemic Report](https://www.who.int/health-topics/infodemic#tab=tab_1)”
+- National Association for Media Literacy Education, “{{% resource_link "39fa3fc4-141b-4379-9708-87d7e05d584f" "Resources and Guides" %}}”
+- World Health Organization, “{{% resource_link "3795b619-e0bd-45a8-89f2-7922515b0cea" "Infodemic Report" %}}”
 
 ## Open-Access Video Collections
 
-[Internet Archive](https://archive.org/): global film, television, radio, photography, with a focus on nonfiction.
+{{% resource_link "418bec89-488d-4cae-b199-45e827b2b950" "Internet Archive" %}}: global film, television, radio, photography, with a focus on nonfiction.
 
-[Library of Congress Digital Collections](https://www.loc.gov/collections/): short and long-form video from LOC.
+{{% resource_link "e8348c30-e1be-4de6-a0ef-d058d98feb14" "Library of Congress Digital Collections" %}}: short and long-form video from LOC.
 
-[A/V Geeks](https://avgeeks.com/): educational film, advertising, home movies, industrial media.
+{{% resource_link "4cedac87-9a43-4b80-a325-732ced3ce520" "A/V Geeks" %}}: educational film, advertising, home movies, industrial media.
 
-[Bay Area TV Archive](https://diva.sfsu.edu/collections/sfbatv): 6,000+ hours of Northern CA newsfilm, documentaries, raw footage.
+{{% resource_link "f7f90a46-747a-448c-9fe7-9df5483680ea" "Bay Area TV Archive" %}}: 6,000+ hours of Northern CA newsfilm, documentaries, raw footage.
 
-[BBC Archive](https://www.bbc.co.uk/archive/archive-services): BBC multi-media content.
+{{% resource_link "f2b3309b-bff1-482e-91d6-d7b8d18bd07f" "BBC Archive" %}}: BBC multi-media content.
 
-[Bundesarchiv German Federal Film Archive](https://www.filmothek.bundesarchiv.de/): 3,500+ digitized films, 1914-99.
+{{% resource_link "8d64753a-eaea-4a52-b5db-2610e8d2e936" "Bundesarchiv German Federal Film Archive" %}}: 3,500+ digitized films, 1914-99.
 
-[Colonial Film Database](http://www.colonialfilm.org.uk/): 350+ films related to the British Empire.
+{{% resource_link "fce5c5b3-0c5e-4c16-9405-f8fe61961344" "Colonial Film Database" %}}: 350+ films related to the British Empire.
 
-[Eye Filmmuseum, Netherlands](https://www.eyefilm.nl/en): Dutch fiction, nonfiction, experimental.
+{{% resource_link "13af79c1-3b1f-484b-9201-07baaf33067a" "Eye Filmmuseum, Netherlands" %}}: Dutch fiction, nonfiction, experimental.
 
-[Home Movie Archives Database](https://homemoviearchives.org/): home movies across American archives.
+{{% resource_link "79040ff5-be07-477f-9bd0-19a9cbf6b89f" "Home Movie Archives Database" %}}: home movies across American archives.
 
-[Instituto Luce Collection](https://www.europeanfilmgateway.eu/about_efg/partners_contributors/cinecitta_a_luce_s.p.a.): newsreels, documentaries, photography of Italy, Mediterranean.
+{{% resource_link "7f7b45be-9c68-4fb5-927e-675847c72a21" "Instituto Luce Collection" %}}: newsreels, documentaries, photography of Italy, Mediterranean.
 
-[Korean National Archives](https://www.youtube.com/user/KoreanFilm): 150+ streaming films from KNA’s YouTube channel.
+{{% resource_link "fd2d5d36-27cd-41d5-a1a4-05e329fd2ef7" "Korean National Archives" %}}: 150+ streaming films from KNA’s YouTube channel.
 
-[Lantern Media History Digital Library](https://lantern.mediahist.org/): film, radio, tv periodicals throughout 20th-21st century.
+{{% resource_link "733ab018-80be-476f-8138-3f6024e0107b" "Lantern Media History Digital Library" %}}: film, radio, tv periodicals throughout 20th-21st century.
 
-[Media Burn Independent Video Archive](https://mediaburn.org/): community, advocacy, nonfiction, experimental video.
+{{% resource_link "2b64bd58-deb5-4223-86d9-4666f48754eb" "Media Burn Independent Video Archive" %}}: community, advocacy, nonfiction, experimental video.
 
-[American Archive of Public Broadcasting](https://americanarchive.org/): PBS/WGBH nonfiction, animation, newscasts. 
+{{% resource_link "46fb058b-580e-4d68-af97-a350e5cf781e" "American Archive of Public Broadcasting" %}}: PBS/WGBH nonfiction, animation, newscasts. 
 
-[Films for Action](https://www.filmsforaction.org/library/?quality=best&type=evergreen&topic=1577&sort=new): global advocacy, activist, and environmental, community media.
+{{% resource_link "180a57c7-e46f-4cb9-8b84-ab5dbcdcb3fd" "Films for Action" %}}: global advocacy, activist, and environmental, community media.
 
-[National Film Archive of Australia](https://www.youtube.com/channel/UCGaOeIZLNXadoevCSuL2N8g): streaming content from the NFAA archive.
+{{% resource_link "5283ede4-e559-48c7-aa6d-de566069a9ba" "National Film Archive of Australia" %}}: streaming content from the NFAA archive.
 
-[NFB of Canada Indigenous Cinema Collectio](https://www.nfb.ca/indigenous-cinema/?&film_lang=en&sort=year:desc,title&year=1917..2020)n: films made between 1917-2020.
+{{% resource_link "d76fa140-1a17-43f5-9b43-6418f9883669" "NFB of Canada Indigenous Cinema Collectio" %}}n: films made between 1917-2020.
 
-[National Film Board of Canada Streaming Collections](https://www.nfb.ca/films/): 4,000+ titles available, all genres.
+{{% resource_link "93fb6b47-a056-43a8-ba0b-7aded7659b58" "National Film Board of Canada Streaming Collections" %}}: 4,000+ titles available, all genres.
 
-[Public Domain Movies Website](http://publicdomainmovie.net/): all genres (comedy, drama, horror, etc.) in public domain.
+{{% resource_link "8a58de92-0642-4898-b2c8-6a9cce574fa4" "Public Domain Movies Website" %}}: all genres (comedy, drama, horror, etc.) in public domain.
 
-[UbuWeb Film and Video](https://www.ubu.com/film/): experimental and art film, organized by artist.
+{{% resource_link "2ab943b0-f653-4dc6-b182-d1e116a4337b" "UbuWeb Film and Video" %}}: experimental and art film, organized by artist.
 
-[UNESCO Digital Archives](https://digital.archives.unesco.org/en/): digital content related to the films, photos, publications of     
+{{% resource_link "5b3c546b-4aeb-4e9f-80cd-15007d94d0ef" "UNESCO Digital Archives" %}}: digital content related to the films, photos, publications of     
 UNESCO.
 
-[Women Behind the Camera](http://womanbehindthecamera.org/home/): 20th century women filmmakers, Northeast Archives.
+{{% resource_link "8dca5377-3cbf-4543-a916-eeecc1886514" "Women Behind the Camera" %}}: 20th century women filmmakers, Northeast Archives.
 
 ## Synthetic Media Case Studies
 
 Civic Art and Outreach:
 
-- [In Event of Moon Disaster](https://moondisaster.org/) (MIT/Center for Advanced Virtuality).
-- [David Beckham Fights Malaria](https://www.youtube.com/watch?v=1zX8stPdWRU&ab_channel=MadameFigaro) (Malaria No More UK/Gates Foundation 2019)
+- {{% resource_link "610e23e2-3205-494e-8409-e998f3d5577d" "In Event of Moon Disaster" %}} (MIT/Center for Advanced Virtuality).
+- {{% resource_link "aa4ff3e7-5410-4eca-a17f-1e9500dbd3ef" "David Beckham Fights Malaria" %}} (Malaria No More UK/Gates Foundation 2019)
 
 Entertainment:
 
-- [Deepfake Roundtable: Streaming Wars](https://www.youtube.com/watch?v=l_6Tumd8EQI&ab_channel=Collider) (Collider 2019)
-- [Bill Hader Channels](https://www.youtube.com/watch?v=VWrhRBb-1Ig&ab_channel=CtrlShiftFace)
-- [Tom Cruise](https://www.youtube.com/watch?v=VWrhRBb-1Ig&ab_channel=CtrlShiftFace) (Crtl Shift Face 2019)
+- {{% resource_link "beda48b3-fd98-4eae-aca6-11965b25ddaf" "Deepfake Roundtable: Streaming Wars" %}} (Collider 2019)
+- {{% resource_link "0ceb4827-1140-4a13-a138-a194d7b5f62a" "Bill Hader Channels" %}}
+- {{% resource_link "0ceb4827-1140-4a13-a138-a194d7b5f62a" "Tom Cruise" %}} (Crtl Shift Face 2019)
 
 Political Satire:
 
-- [Better Call Trump](https://www.youtube.com/watch?v=Ho9h0ouemWQ&feature=emb_logo&ab_channel=CtrlShiftFace) (Crtl Shift Face/Stable Voices 2019)
-- [Obama PSA](https://www.youtube.com/watch?v=cQ54GDm1eL0&feature=emb_logo&ab_channel=BuzzFeedVideo) (Buzzfeed/Jordan Peele 2018)
-- [Imagine This](http://billposters.ch/the-zuckerberg-deepfake-heard-around-the-world/) (Bill Posters 2019)
-- [MIT Deepfake Vladimir Putin](https://twitter.com/techreview/status/1174316798700924929?s=20) (EmTech/Gideon Lichfield 2019)
-- [Imagine by World Leaders](https://www.fxguide.com/fxfeatured/canny-ai-imagine-world-leaders-singing/) (Canny AI, 2019)
+- {{% resource_link "c6943f5e-427f-4b91-9b97-eafaf1c8d894" "Better Call Trump" %}} (Crtl Shift Face/Stable Voices 2019)
+- {{% resource_link "5fb109fa-b792-4477-9be6-7f28b8c097af" "Obama PSA" %}} (Buzzfeed/Jordan Peele 2018)
+- {{% resource_link "39368875-876e-4220-b2d7-6ecaaab0a936" "Imagine This" %}} (Bill Posters 2019)
+- {{% resource_link "4a4b2873-4f6f-4e83-9fa2-727f8a884daa" "MIT Deepfake Vladimir Putin" %}} (EmTech/Gideon Lichfield 2019)
+- {{% resource_link "eaad65d0-bc4d-4fd3-bd01-d41ef2c402ea" "Imagine by World Leaders" %}} (Canny AI, 2019)
 
 Discussion of deepfake pornography and its consequences:
 
-- [Noelle Martin TED talk](https://www.youtube.com/watch?v=oXeAWdHP0uY&feature=emb_logo&ab_channel=TED), WIRED
+- {{% resource_link "078d7f1d-fea4-423a-a99d-7c4ab5a5ba3c" "Noelle Martin TED talk" %}}, WIRED
 
 Witness Protection:
 
-- [Welcome to Chechnya](https://www.fastcompany.com/90522330/how-ai-came-to-protect-the-lgbtq-subjects-in-hbos-welcome-to-chechnya) (HBO/Ryan Laney/David France 2020)
+- {{% resource_link "08b6fdeb-bb9a-4076-bb18-72a4e99970ce" "Welcome to Chechnya" %}} (HBO/Ryan Laney/David France 2020)
 
 Public History:
 
-- [Dimensions in Testimony](https://sfi.usc.edu/dit) (USC Shoah Foundation 2016)
-- [Dalí Lives](https://thedali.org/exhibit/dali-lives/) (Salvador Dali Museum)
+- {{% resource_link "2d8e337c-db32-4ec1-a8a0-0cf5f28c925b" "Dimensions in Testimony" %}} (USC Shoah Foundation 2016)
+- {{% resource_link "64871969-ccaf-48ff-a050-be1611d554f2" "Dalí Lives" %}} (Salvador Dali Museum)
 
 Advertising:
 
-- [Last Dance commercial](https://www.youtube.com/watch?v=FzOVqClci_s&ab_channel=StateFarmInsurance) (State Farm/ESPN, 2020)
-- [Lil Miquela](https://www.tiktok.com/@lilmiquela?lang=en) (virtual influencer)
+- {{% resource_link "25823a43-498b-4b94-bd2a-bf80350c5ead" "Last Dance commercial" %}} (State Farm/ESPN, 2020)
+- {{% resource_link "45c414d0-5c6b-45b0-a048-96cb520378e7" "Lil Miquela" %}} (virtual influencer)
