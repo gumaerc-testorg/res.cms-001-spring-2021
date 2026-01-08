@@ -68,7 +68,7 @@ Samantha Cole, “AI-Assisted Fake Porn is Here and We’re All Fucked,” *VICE
 
 Joan Donovan and Britt Paris, “Deepfakes and Cheap Fakes: The Manipulation of Audio and Visual Evidence,” Data & Society, September 2019.
 
-{{% resource_link "e5e0514d-66fc-42bd-b0fa-118b0a9ad024" "Live Science Thursday" %}}
+[Live Science Thursday](https://www.livescience.com/65573-mona-lisa-deepfakes.html)
 
 Henry Ajder et. al., *The State of Deepfakes: Landscape, Threats, Impact, Deeptrace,* September 2019
 
@@ -78,7 +78,7 @@ Nina Schick, “R/Deepfakes,” “Deepfakes in the Wild,” in *Deepfakes: The 
 
 ### Week 8: Media Literacies
 
-Alexandra Juhasz, “{{% resource_link "31d7dcd9-3c62-4b90-ae68-6ec4b28cf36c" "#100hardtruths-#fakenews" %}}”
+Alexandra Juhasz, “[#100hardtruths-#fakenews](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1189&context=bc_pubs)”
 
 Alexandra Juhasz, “Fake News Poetry Workshops,” “Radical Digital Media Literacy in a Post-Truth Anti-Trump Era,” *Radical Teacher* 111, 23-29.
 
@@ -90,7 +90,7 @@ Sam Gregory, “Prepare, Don’t Panic: Synthetic Media and Deepfakes,” *Witne
 
 ### Week 9: Ethics and Aesthetics of the Archive: In Event of Moon Disaster
 
-Video: {{% resource_link "73621c3e-b654-432d-a4bf-939857592740" "In Event of Moon Disaster" %}} (IEOMD), MIT/Center for Advanced Virtuality
+Video: [In Event of Moon Disaster](https://moondisaster.org/film) (IEOMD), MIT/Center for Advanced Virtuality
 
 - Read dossier of materials on IEOMD website
 - "Behind the Scenes"
@@ -123,7 +123,7 @@ Patricia Zimmermann, “Reverse Engineering: Taking Things Apart for the New Glo
 
 ### Week 12: Synthetic Media as Public History
 
-{{% resource_link "2d8e337c-db32-4ec1-a8a0-0cf5f28c925b" "Dimensions in Testimony" %}}, USC
+[Dimensions in Testimony](https://sfi.usc.edu/dit), USC
 
 Matthew Fishbane, “Do Holocaust Survivors Dream of Electric Sheep?” *Tablet*, April 21, 2020
 

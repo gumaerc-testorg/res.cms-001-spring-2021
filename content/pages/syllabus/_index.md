@@ -8,7 +8,7 @@ title: Sample Syllabus
 uid: c7e93a18-e1d5-9f56-75b3-073340e84472
 ---
 
-The following is an expanded course description that builds on the learning module, Media Literacy in the Age of Deepfakes. For the full syllabus, please go to the main {{% resource_link "abe944df-ec1b-4cef-86d8-23045403c49c" "learning module website" %}}.
+The following is an expanded course description that builds on the learning module, Media Literacy in the Age of Deepfakes. For the full syllabus, please go to the main [learning module website](https://deepfakes.virtuality.mit.edu/).
 
 Resource Description
 --------------------
